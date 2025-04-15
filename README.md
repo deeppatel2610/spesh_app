@@ -1,6 +1,6 @@
 # Spesh App
 
-Spesh App is a Flutter-based application designed to provide an efficient and user-friendly experience. This app integrates modern UI/UX principles and powerful backend support to deliver seamless functionality.
+Spesh App is a Flutter-based application designed to provide an efficient and user-friendly experience. This app integrates modern UI/UX principles.
 
 ## Features
 - **Beautiful UI**: A sleek and intuitive interface for an enhanced user experience.
